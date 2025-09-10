@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer components{
+  .btn-primary{
+    @apply bg-primary text-white hover:bg-primary/80 duration-300 rounded-lg
+    py-2 px-4;
+  }
+
+  .container-custom {
+    @apply container mx-auto px-4;
+  }
+
+}
+
+@theme {
+  --font-sans: "Inter", "ui-sans-serif", "system-ui", sans-serif;
+  --font-serif: "Merriweather", "ui-serif", serif;
+
+  --color-secondary: #e5e6f4;
+  --color-primary: #565aDD; 
+  --color-primary-foreground: #ffffff; /* opcional, texto sobre primary */
+}
