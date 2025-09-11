@@ -16,11 +16,12 @@ const HeroComponent = () => {
         <p className="text-primary text-xl sm:text-2xl font-medium">Comunicación Estratégica</p>
 
         <p className="text-gray-600 max-w-md">
-          Ayudo a marcas y profesionales a diseñar estrategias de comunicación efectivas, mejorar su presencia digital y conectar auténticamente con su audiencia.
+        Diseñamos estrategias de comunicación efectivas, 
+        mejoramos la presencia digital y conectamos auténticamente con la audiencia.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 mt-4">
-          <button className="btn-primary">Escribime</button>
+          <button className="btn-primary">HABLEMOS</button>
 
         </div>
       </div>

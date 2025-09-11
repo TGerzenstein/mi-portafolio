@@ -9,7 +9,7 @@ const ServicesSectionComponent = () => {
             Mis Servicios
           </h1>
           <p className="text-lg text-gray-600 mb-6">
-            Te acompaño en el crecimiento de tu marca con soluciones
+            Te acompañamos en el crecimiento de tu marca con soluciones
             personalizadas que combinan estrategia, creatividad y tecnología.
           </p>
           <ul className="space-y-3 mb-6 text-left">
@@ -41,7 +41,7 @@ const ServicesSectionComponent = () => {
               <span>Diseño y desarrollo web adaptado a tus objetivos.</span>
             </li>
           </ul>
-          <button className="btn-primary">Conoce más</button>
+          <button className="btn-primary">CONOCÉ MÁS</button>
         </div>
       </section>
     </>
