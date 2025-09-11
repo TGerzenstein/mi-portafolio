@@ -14,5 +14,5 @@ El sitio está publicado en:
 ## 🛠️ Tecnologías
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/) 
+- [Vite](https://vitejs.dev/) *(si lo usaste para bootstrap)*
 - [GitHub Pages](https://pages.github.com/) / [Vercel](https://vercel.com/)
