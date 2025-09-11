@@ -5,18 +5,13 @@ const ServicesSectionComponent = () => {
     <>
       <section className="container-custom my-20">
         <div className="max-w-4xl mx-auto p-10 bg-gradient-to-r from-purple-50 to-white rounded-2xl shadow-2xl text-center">
-          {/* Título */}
           <h1 className="text-4xl font-bold text-gray-800 mb-4">
             Mis Servicios
           </h1>
-
-          {/* Descripción */}
           <p className="text-lg text-gray-600 mb-6">
             Te acompaño en el crecimiento de tu marca con soluciones
             personalizadas que combinan estrategia, creatividad y tecnología.
           </p>
-
-          {/* Lista de servicios */}
           <ul className="space-y-3 mb-6 text-left">
             <li className="flex items-start">
               <span className="text-purple-500 mr-3 mt-1">✔</span>
@@ -46,8 +41,6 @@ const ServicesSectionComponent = () => {
               <span>Diseño y desarrollo web adaptado a tus objetivos.</span>
             </li>
           </ul>
-
-          {/* Botón */}
           <button className="btn-primary">Conoce más</button>
         </div>
       </section>

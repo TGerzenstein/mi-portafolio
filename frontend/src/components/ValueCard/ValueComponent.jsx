@@ -1,6 +1,9 @@
-
 import React from "react";
-import { ChartBarIcon, Cog6ToothIcon, LifebuoyIcon } from "@heroicons/react/24/outline";
+import {
+  ChartBarIcon,
+  Cog6ToothIcon,
+  LifebuoyIcon,
+} from "@heroicons/react/24/outline";
 
 const skillsInfo = [
   {
@@ -32,7 +35,6 @@ const ValueComponent = () => {
   return (
     <div className="container-custom my-20">
       <div className="py-12 sm:grid sm:place-items-center">
-        {/* Card section */}
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-12">
           {skillsInfo.map((skill, index) => (
             <div
@@ -40,10 +42,7 @@ const ValueComponent = () => {
               className={`space-y-6 p-8 ${colors[index % colors.length]} 
                 rounded-2xl shadow-2xl transform transition duration-300 hover:scale-105`}
             >
-              {/* Icono */}
               <div>{skill.icon}</div>
-
-              {/* Título y descripción */}
               <div className="text-center">
                 <h1 className="text-2xl font-bold text-gray-800 mb-2">
                   {skill.name}

@@ -2,7 +2,8 @@ import React from "react";
 
 const MenuLinks = [
   { id: 1, name: "Home", link: "/#" },
-  { id: 2, name: "Servicios", link: "/#Servicios" },
+  { id: 2, name: "Servicios", link: "/#" },
+  { id: 3, name: "Auditorías", link: "/#" },
 ];
 
 const Navbar = () => {
