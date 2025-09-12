@@ -8,8 +8,12 @@ const DigitalMarketingAuditCard = () => {
           Analizamos tu negocio para crecer juntos
         </h1>
         <p className="text-lg text-gray-600 mb-6">
+<<<<<<< HEAD
+          Recibí un análisis completo de tu presencia digital y descubrí como mejorar resultados de manera efectiva
+=======
           Recibí un análisis completo de tu presencia digital y descubrí como
           mejorar resultados de manera efectiva.
+>>>>>>> 1fb052575690ba85c1dc669382fa02608ae0b825
         </p>
         <ul className="space-y-3 mb-6">
           <li className="flex items-start">
@@ -22,8 +26,12 @@ const DigitalMarketingAuditCard = () => {
           </li>
           <li className="flex items-start">
             <span className="text-blue-500 mr-3 mt-1">✔</span>
+<<<<<<< HEAD
+            <span>Recomendaciones estratégicas para aumentar engagement y
+=======
             <span>
               Recomendaciones estratégicas para aumentar engagement y
+>>>>>>> 1fb052575690ba85c1dc669382fa02608ae0b825
               conversiones.
             </span>
           </li>

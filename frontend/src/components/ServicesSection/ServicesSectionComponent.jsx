@@ -10,7 +10,7 @@ const ServicesSectionComponent = () => {
           </h1>
           <p className="text-lg text-gray-600 mb-6">
             Te acompañamos en el crecimiento de tu marca con soluciones
-            personalizadas que combinan estrategia, creatividad y tecnología.
+            personalizadas que combinan estrategia, creatividad y tecnología
           </p>
           <ul className="space-y-3 mb-6 text-left">
             <li className="flex items-start">
@@ -25,15 +25,13 @@ const ServicesSectionComponent = () => {
             </li>
             <li className="flex items-start">
               <span className="text-purple-500 mr-3 mt-1">✔</span>
-              <span>
-                Gestión integral de redes sociales para potenciar tu presencia
+              <span>Gestión integral de redes sociales para potenciar tu presencia
                 digital.
               </span>
             </li>
             <li className="flex items-start">
               <span className="text-purple-500 mr-3 mt-1">✔</span>
-              <span>
-                Optimización y posicionamiento SEO para mayor visibilidad.
+              <span>Optimización y posicionamiento SEO para mayor visibilidad.
               </span>
             </li>
             <li className="flex items-start">
