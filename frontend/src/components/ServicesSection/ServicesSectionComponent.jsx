@@ -9,7 +9,7 @@ const ServicesSectionComponent = () => {
             Mis Servicios
           </h1>
           <p className="text-lg text-gray-600 mb-6">
-            Te acompañamos en el crecimiento de tu marca con soluciones
+            Te acompaño en el crecimiento de tu marca con soluciones
             personalizadas que combinan estrategia, creatividad y tecnología
           </p>
           <ul className="space-y-3 mb-6 text-left">
@@ -45,7 +45,7 @@ const ServicesSectionComponent = () => {
               section?.scrollIntoView({ behavior: "smooth" });
             }}
           
-          >CONOCÉ MÁS</button>
+          >Conocé más</button>
         </div>
       </section>
     </>

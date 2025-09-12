@@ -17,18 +17,15 @@ const HeroComponent = () => {
               Tatiana Gerzenstein
             </h1>
             <p className="text-primary text-xl sm:text-2xl font-medium">
-              Comunicación Estratégica
-            </p>
-
+            Community Manager & Copywriter</p>
             <p className="text-gray-600 max-w-md">
-              Diseñamos estrategias de comunicación efectivas, mejoramos la
-              presencia digital y conectamos auténticamente con la audiencia.
+            Transformo ideas en mensajes claros, marcas en experiencias digitales que inspiran y construyen comunidad.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 mt-4">
               <button className="btn-primary"
               onClick={() => window.location.href = "https://forms.gle/Azuk4ULKJY8FEVGJ8"}
-              >HABLEMOS</button>
+              >Conectemos</button>
             </div>
           </div>
         </div>
