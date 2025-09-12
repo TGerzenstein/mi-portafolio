@@ -10,21 +10,21 @@ const skillsInfo = [
     name: "Estrategia",
     icon: <ChartBarIcon className="w-12 h-12 text-green-300 mx-auto" />,
     description:
-      "Diseñamos planes de acción personalizados que se adaptan a tus objetivos. Cada decisión está basada en datos y enfocada en maximizar el impacto de tu negocio.",
+      "Creo planes de acción personalizados que se adaptan a tus objetivos. Cada decisión está basada en datos y enfocada en maximizar el impacto de tu negocio.",
     aosDelay: "0",
   },
   {
     name: "Análisis",
     icon: <Cog6ToothIcon className="w-12 h-12 text-purple-300 mx-auto" />,
     description:
-      "Medimos, analizamos y optimizamos para asegurar que tu inversión se traduzca en mayor alcance, clientes y crecimiento real.",
+      "Mido, analizo y optimizo para asegurar que tu inversión se traduzca en mayor alcance, clientes y crecimiento real.",
     aosDelay: "300",
   },
   {
     name: "Soporte",
     icon: <LifebuoyIcon className="w-12 h-12 text-blue-300 mx-auto" />,
     description:
-      "Te acompañamos en cada parte del proceso, brindando asesoría cercana, respuestas rápidas y un compromiso constante con tus objetivos.",
+      "Te acompaño en cada parte del proceso, brindando asesoría cercana, respuestas rápidas y un compromiso constante con tus objetivos.",
     aosDelay: "500",
   },
 ];
