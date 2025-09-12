@@ -53,7 +53,7 @@ const FooterComponent = () => {
               </li>
             </ul>
 
-            <h1 className="text-xl font-medium mt-6 mb-3">Links Importantes</h1>
+            <h1 className="text-xl font-medium mt-6 mb-3">Links</h1>
             <ul className="text-sm space-y-2">
               <li>
                 <a href="#" className="hover:underline">
