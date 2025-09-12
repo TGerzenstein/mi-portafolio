@@ -39,7 +39,13 @@ const ServicesSectionComponent = () => {
               <span>Diseño y desarrollo web adaptado a tus objetivos.</span>
             </li>
           </ul>
-          <button className="btn-primary">CONOCÉ MÁS</button>
+          <button className="btn-primary"
+            onClick={() => {
+              const section = document.getElementById("mas-info");
+              section?.scrollIntoView({ behavior: "smooth" });
+            }}
+          
+          >CONOCÉ MÁS</button>
         </div>
       </section>
     </>

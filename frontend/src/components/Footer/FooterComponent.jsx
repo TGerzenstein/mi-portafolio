@@ -14,7 +14,7 @@ const FooterComponent = () => {
               <a href="https://www.instagram.com" className="hover:underline">
                 Instagram
               </a>
-              <a href="https://www.linkedin.com" className="hover:underline">
+              <a href="https://www.linkedin.com/in/tatigerzenstein/" className="hover:underline">
                 LinkedIn
               </a>
             </div>
