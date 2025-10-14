@@ -17,7 +17,7 @@ const HeroComponent = () => {
               Tatiana Gerzenstein
             </h1>
             <p className="text-primary text-xl sm:text-2xl font-medium">
-            Community Manager & Copywriter</p>
+            Social Media & Copywriter</p>
             <p className="text-gray-600 max-w-md">
             Transformo ideas en mensajes claros, marcas en experiencias digitales que inspiran y construyen comunidad.
             </p>
